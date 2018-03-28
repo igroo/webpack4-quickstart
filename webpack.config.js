@@ -5,7 +5,7 @@ const HtmlWebPackPlugin = require("html-webpack-plugin");
 module.exports = {
     entry: {
         vendor: ['jquery', './src/assets/vendor/sample-vendor.js'],
-        main: ['./src/main.js']
+        main: ['./src/app/main.js']
     },
     output: {
         filename: '[name]-bundle.js',
