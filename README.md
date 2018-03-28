@@ -20,6 +20,10 @@ Production Build
 npm run build
 ```
 
+## Reference
+
+[Webpack 4: Beyond the Basics](https://www.youtube.com/watch?v=Mct6KwWpJ7c) - Code Once
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
