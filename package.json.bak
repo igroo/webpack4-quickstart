@@ -1,0 +1,22 @@
+{
+  "name": "webpack4-quickstart",
+  "version": "1.0.0",
+  "description": "webpack4 web development",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --config=webpack.config.js",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igroo/webpack4-quickstart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igroo/webpack4-quickstart/issues"
+  },
+  "homepage": "https://github.com/igroo/webpack4-quickstart#readme"
+}
