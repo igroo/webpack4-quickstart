@@ -4,9 +4,9 @@ require('../index.html')
 
 
 var a = async args => {
-    const {a, b} = args
+    const { a, b } = args
     await console.log("Hello from the future!", a, b);
     console.log("Done 333")
 }
 
-a({a:1, b:2})
+a({ a: 1, b: 2 })
